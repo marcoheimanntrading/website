@@ -35,3 +35,9 @@ pie(
   init.angle = -50, border = NA
 )
 ```
+
+
+```{r div, fig.cap='.', tidy=FALSE}
+knitr::include_app("https://marcosfinancetools.shinyapps.io/testing/", 
+  height = "600px")
+```

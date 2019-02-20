@@ -36,4 +36,8 @@ pie(
 )
 ```
 
-<iframe src="https://jlacko.shinyapps.io/vox-andreii/" width="800" height="900" style="border: none;"></iframe>
+
+```{r div, fig.cap='.', tidy=FALSE}
+knitr::include_app("https://marcosfinancetools.shinyapps.io/testing/", 
+  height = "600px")
+```
