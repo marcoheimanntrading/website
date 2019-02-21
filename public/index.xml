@@ -6,18 +6,36 @@
     <description>Recent content on Long term investment tools and ideas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dividend reinvestment comparison app</title>
-      <link>/2019/02/dividend-reinvestment-comparison-app/</link>
-      <pubDate>Wed, 20 Feb 2019 00:00:00 +0000</pubDate>
+      <title>Advice to all those wo do NOT want to waste time on thinking about their money</title>
+      <link>/advice/advice/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/02/dividend-reinvestment-comparison-app/</guid>
-      <description></description>
+      <guid>/advice/advice/</guid>
+      <description>Thinking about your financesWealth and hapinessHow to grow your wealthGoldSavings accountReal estateGovernment bondsStocksWhat I would doBuy…Allocation: 2/1/100…or rent?Allocation 2/1/50:50Thinking about your financesI know that actively thinking about one’s finances is difficult. For one reason because it involves feelings about what we do with our money? Some people may feel guilt for not saving enough and spending too much on leisure while others may be terrified and fear the thought of loosing their fortune.</description>
+    </item>
+    
+    <item>
+      <title>Introducing the dividend comparison app</title>
+      <link>/2019/02/testpost/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/02/testpost/</guid>
+      <description>Why dividends?We tend to focus a lot on what happens right now and forget about the bigger picture. That is no different when investing in stocks. We are easily impressed by the recent rise in price and forget about why investors buy stocks. Well, the reason is that they hope that by owning a part of the company they get a part of the profits the company makes: Dividends!</description>
+    </item>
+    
+    <item>
+      <title>Active Investor Signals</title>
+      <link>/advice/ais/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/advice/ais/</guid>
+      <description>About the systemThe Active Investor Signals (AIS) system aims to trade individual stocks, stock index funds as well as a variety of ETFs adopting a medium to long term investment style. The criteria for investment are a mix of quantitative tests and discretionary decisions. Quantitative methods include backtesting of rule-based strategies and statistical analysis of historical price movements. Discretionary decisions gauge the quantitative elements in the light of macroeconomic cycles and money management.</description>
     </item>
     
   </channel>

@@ -39,7 +39,7 @@ canonifyurls = true
   #gravatarEmail = "marcoheimanntrading@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "/img/moneygrow.png" #"https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  picture = "/img/thumbnails/moneygrow.png" #"https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -49,15 +49,36 @@ canonifyurls = true
 [[menu.main]]
   weight = 1
   identifier = "home"
-  name = "Home"
+  name = "Home (Blogroll)"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
-  [[menu.main]]
+[[menu.main]]
   weight = 2
+  identifier = "adVice"
+  name = "Free Advice"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bank\"></i>"
+  url = "/advice/advice"
+  
+[[menu.main]]
+  weight = 3
   identifier = "divUS"
-  name = "Dividend app"
+  name = "Dividend App"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-wrench\"></i>"
   url = "https://marcosfinancetools.shinyapps.io/testing/"
+[[menu.main]]
+  weight = 4
+  identifier = "freenews"
+  name = "Newsletter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
+  url = "https://www.getrevue.co/profile/investingnewsletter"
+[[menu.main]]
+  weight = 5
+  identifier = "AIS"
+  name = "AISystem"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-line-chart\"></i>"
+  url = "/advice/AIS"
+
+  
 
 [[menu.misc]]
   weight = 1

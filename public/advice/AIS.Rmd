@@ -1,0 +1,20 @@
+---
+title: "Active Investor Signals"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About the system
+The [Active Investor Signals (AIS)](https://www.getrevue.co/profile/investingnewsletter/members) system aims to trade individual stocks, stock index funds as well as a variety of ETFs adopting a medium to long term investment style. The criteria for investment are a mix of quantitative tests and discretionary decisions. Quantitative methods include backtesting of rule-based strategies and statistical analysis of historical price movements. Discretionary decisions gauge the quantitative elements in the light of macroeconomic cycles and money management. Performance wise the goal is to beat the SP500 by 10% annually.
+
+# Performance
+The performance of the system is tracked on [Wikifolio](https://www.wikifolio.com/en/int/my-wikifolios/change/wfaisystem). Wikifolio also provides the option to invest into the portfolio through a certificate. 
+
+# Procedures
+Subscribers receive a mail at least one hour before the open of the US-markets. Since trades might occur on a daily basis subscribers should be able to spend a few moments to enter the orders received through email. On average [AIS](https://www.getrevue.co/profile/investingnewsletter/members) produces two entry signals a week and exits the same number of postitions. Expect to receive 2-3 emails a week.
+
+# Brokerage
+The preferred broker is [IBKR](http://interactivebrokers.com). There is a steep learning curve for handling trades, but lower comissions are worth it. 

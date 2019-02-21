@@ -3,19 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2019/02/dividend-reinvestment-comparison-app/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <loc>/advice/advice/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/app/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <loc>/2019/02/testpost/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/advice/ais/</loc>
+  </url>
+  
+  <url>
+    <loc>/advice/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/apps/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <loc>/tags/app/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/app/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,37 +41,37 @@
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/divdends/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <loc>/tags/dividends/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tool/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
+    <loc>/tags/tools/</loc>
+    <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

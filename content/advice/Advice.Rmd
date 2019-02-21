@@ -1,0 +1,29 @@
+---
+title: "Advice to all those wo do NOT want to waste time on thinking about their money"
+author: Marco
+date: '2019-02-21'
+output: 
+  blogdown::html_page:
+    toc: true
+---
+
+# Thinking about your finances
+I know that actively thinking about one's finances is difficult. For one reason because it involves feelings about what we do with our money? Some people may feel guilt for not saving enough and spending too much on leisure while others may be terrified and fear the thought of loosing their fortune. Whatever the emotions are that you attach to your finances a good advice would be to avoid getting trapped by them.
+
+Another reason why some people avoit thinking about their finances is that it takes time. Most of us are already dedicating a lot of our efforts into our jobs or businesses and it is already hard to switch out thoughts to our dear ones at dinner. We are so much into our daily routines that thinking about investments is simply too much.
+
+If you fall into one of the above categories or do not which to dedicate some of your time to managing your money the following sections are for your (don't worry it should not take too long).
+
+# Wealth and hapiness
+# How to grow your wealth
+## Gold
+## Savings account
+## Real estate
+## Government bonds
+## Stocks
+
+# What I would do
+## Buy...
+### Allocation: 2/1/100
+## ...or rent?
+### Allocation 2/1/50:50
