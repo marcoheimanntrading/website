@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>Advice to all those wo do NOT want to waste time on thinking about their money</title>
-      <link>/advice/advice/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/advice/advice/</guid>
-      <description>Thinking about your financesWealth and hapinessHow to grow your wealthGoldSavings accountReal estateGovernment bondsStocksWhat I would doBuy…Allocation: 2/1/100…or rent?Allocation 2/1/50:50Thinking about your financesI know that actively thinking about one’s finances is difficult. For one reason because it involves feelings about what we do with our money? Some people may feel guilt for not saving enough and spending too much on leisure while others may be terrified and fear the thought of loosing their fortune.</description>
-    </item>
-    
-    <item>
       <title>Introducing the dividend comparison app</title>
       <link>/2019/02/testpost/</link>
       <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
@@ -36,6 +27,25 @@
       
       <guid>/advice/ais/</guid>
       <description>About the systemThe Active Investor Signals (AIS) system aims to trade individual stocks, stock index funds as well as a variety of ETFs adopting a medium to long term investment style. The criteria for investment are a mix of quantitative tests and discretionary decisions. Quantitative methods include backtesting of rule-based strategies and statistical analysis of historical price movements. Discretionary decisions gauge the quantitative elements in the light of macroeconomic cycles and money management.</description>
+    </item>
+    
+    <item>
+      <title>Advice to all those wo do NOT want to waste time on thinking about their money</title>
+      <link>/advice/advice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/advice/advice/</guid>
+      <description>Thinking about your financesWealth and hapinessHow to grow your wealthGoldSavings accountReal estateGovernment bondsStocksWhat I would doBuy…Allocation: 2/1/100…or rent?Allocation 2/1/50:50Thinking about your financesI know that actively thinking about one’s finances is difficult. For one reason because it involves feelings about what we do with our money? Some people may feel guilt for not saving enough and spending too much on leisure while others may be terrified and fear the thought of loosing their fortune.</description>
+    </item>
+    
+    <item>
+      <title>Apps</title>
+      <link>/advice/apps/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/advice/apps/</guid>
+      <description>List of all appsDividend comparison app (An application that allows to compare stock returns with and without dividends reinvested)
+</description>
     </item>
     
   </channel>

@@ -1,7 +1,6 @@
 ---
 title: "Advice to all those wo do NOT want to waste time on thinking about their money"
-author: Marco
-date: '2019-02-21'
+author: Marco Heimann
 output: 
   blogdown::html_page:
     toc: true

@@ -31,8 +31,8 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Marco Heimann"
-  bio = "Investment Ideas, Tools and Market Analysis"
+  name = "Active Investor"
+  bio = "Investment Ideas, Tools and Market Analysis by Marco Heimann"
   job = "PhD"
   location = "EU"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -61,10 +61,10 @@ canonifyurls = true
   
 [[menu.main]]
   weight = 3
-  identifier = "divUS"
-  name = "Dividend App"
+  identifier = "apps"
+  name = "Apps"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-wrench\"></i>"
-  url = "https://marcosfinancetools.shinyapps.io/testing/"
+  url = "/advice/Apps"
 [[menu.main]]
   weight = 4
   identifier = "freenews"
@@ -78,7 +78,6 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-line-chart\"></i>"
   url = "/advice/AIS"
 
-  
 
 [[menu.misc]]
   weight = 1

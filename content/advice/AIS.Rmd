@@ -1,5 +1,6 @@
 ---
 title: "Active Investor Signals"
+author: Marco Heimann
 output: html_document
 ---
 
