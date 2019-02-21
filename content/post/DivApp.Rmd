@@ -13,7 +13,7 @@ keywords:
   - tech
   - dividends
   - tools
-thumbnailImage: /img/thumbnails/silvercoins.jpg
+thumbnailImage: /img/DivAppImg.png
 thumbnailImagePosition: left
 ---
 
@@ -21,6 +21,7 @@ thumbnailImagePosition: left
 We tend to focus a lot on what happens right now and forget about the bigger picture. That is no different when investing in stocks. We are easily impressed by the recent rise in price and forget about why investors buy stocks. Well, the reason is that they hope that by owning a part of the company they get a part of the profits the company makes: Dividends!
 
 Of course, some are willing to wait for dividends while the company is still growing but at some point even the most patient investor will claim it's share of profits. But where it get's interesting is when we look at what investors can do with the received dividends.
+![Dividend comparison app](/img/DivAppImg.png){width=80%}
 
 # Eighth wonder of the world
 That is how Einstein described [compound interest](https://www.investopedia.com/terms/c/compoundinterest.asp), which he considered to be the most poerfull force in the universe. But can we apply this to stock investments? Does reinvesting dividends really make a difference? To compare how investments turned out with and without reinvesting dividends you can use the [dividend comparison app](https://marcosfinancetools.shinyapps.io/testing/).

@@ -54,21 +54,21 @@ canonifyurls = true
   url = "/"
 [[menu.main]]
   weight = 2
-  identifier = "adVice"
+  identifier = "freeadVice"
   name = "Free Advice"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bank\"></i>"
   url = "/advice/advice"
   
 [[menu.main]]
   weight = 3
-  identifier = "apps"
-  name = "Apps"
+  identifier = "freeapps"
+  name = "Free Apps"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-wrench\"></i>"
   url = "/advice/Apps"
 [[menu.main]]
   weight = 4
   identifier = "freenews"
-  name = "Newsletter"
+  name = "Free Newsletter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
   url = "https://www.getrevue.co/profile/investingnewsletter"
 [[menu.main]]

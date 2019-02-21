@@ -1,19 +1,30 @@
 ---
-title: "Advice to all those wo do NOT want to waste time on thinking about their money"
+title: "The one article you should read"
 author: Marco Heimann
 output: 
   blogdown::html_page:
     toc: true
 ---
+# Not thinking too much about your finances: KISS
+If you don't want to think about your finances keep things simple and stupid (KISS). Regularly invest a portion (I suggest 15%-20%) of your revenue in stocks (I suggest [SPY](https://www.investopedia.com/articles/investing/122215/spy-spdr-sp-500-trust-etf.asp)) and government bonds (I suggest [TLT](https://www.investopedia.com/articles/investing/031915/overview-tlt-etf.asp)). The bigger your appetite for risk the higher the percentage invested in the [SPY](https://www.investopedia.com/articles/investing/122215/spy-spdr-sp-500-trust-etf.asp). 
+
+But let Warren Buffet explain you how powerfull index funds are...
+```{r, eval=TRUE, echo=FALSE}
+blogdown::shortcode("youtube", "10QoUi2PmNs")
+```
+
+In my opinion, there are two important things to consider. The first is to commit to regularity and avoid exceptions becaouse your need money somewhere else. I would rather test the limits of my credit card than not wiring money to my brokerage account. The second is fees. Funds charge you a % for managing your money and, believe it or not, the lower the fees the better the performance. Both, [SPY](https://www.investopedia.com/articles/investing/122215/spy-spdr-sp-500-trust-etf.asp) and [TLT](https://www.investopedia.com/articles/investing/031915/overview-tlt-etf.asp) are cometitive but if you decide to use other instruments that's ok. Your should simply avoid paying above 0.3%. 
 
 # Thinking about your finances
-I know that actively thinking about one's finances is difficult. For one reason because it involves feelings about what we do with our money? Some people may feel guilt for not saving enough and spending too much on leisure while others may be terrified and fear the thought of loosing their fortune. Whatever the emotions are that you attach to your finances a good advice would be to avoid getting trapped by them.
+If you want to think about your finances, be reassured I know that thinking about them is difficult. For one reason, because it involves feelings about what we do with our money? Some people may feel guilt for not saving enough and spending too much on leisure while others may be terrified and fear the thought of loosing their fortune. You might have feared that you are about to miss out on a great opportunity everybondy is profiting from (remember bitcoins). Whatever the emotions are that you attach to your finances a good advice would be to avoid getting trapped by them.
 
-Another reason why some people avoit thinking about their finances is that it takes time. Most of us are already dedicating a lot of our efforts into our jobs or businesses and it is already hard to switch out thoughts to our dear ones at dinner. We are so much into our daily routines that thinking about investments is simply too much.
+Another reason why some people avoit thinking about their finances is that it takes time. Most of us are already dedicating a lot of our efforts to our jobs or businesses and it is already hard to switch our thoughts to our dear ones at dinner. We are so much into our daily routines that thinking about our finances and investments is simply too much.
 
-If you fall into one of the above categories or do not which to dedicate some of your time to managing your money the following sections are for your (don't worry it should not take too long).
+But lets take a moment to think about why we should care about how to invest our hard earned money.
 
 # Wealth and hapiness
+
+
 # How to grow your wealth
 ## Gold
 ## Savings account

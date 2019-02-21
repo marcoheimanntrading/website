@@ -7,5 +7,5 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# List of all apps 
+# Apps for stocks 
 [Dividend comparison app](https://marcosfinancetools.shinyapps.io/testing/) (An application that allows to compare stock returns with and without dividends reinvested)

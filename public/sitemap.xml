@@ -12,10 +12,6 @@
   </url>
   
   <url>
-    <loc>/advice/advice/</loc>
-  </url>
-  
-  <url>
     <loc>/advice/</loc>
     <priority>0</priority>
   </url>
@@ -69,6 +65,10 @@
     <loc>/tags/</loc>
     <lastmod>2019-02-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/advice/advice/</loc>
   </url>
   
   <url>
