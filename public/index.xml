@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Investment tools and ideas</title>
+    <title>Active Investor</title>
     <link>/</link>
-    <description>Recent content on Investment tools and ideas</description>
+    <description>Recent content on Active Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Feb 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Introducing the dividend comparison app</title>
-      <link>/2019/02/testpost/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>/custom/homesticky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/2019/02/testpost/</guid>
-      <description>Why dividends?We tend to focus a lot on what happens right now and forget about the bigger picture. That is no different when investing in stocks. We are easily impressed by the recent rise in price and forget about why investors buy stocks. Well, the reason is that they hope that by owning a part of the company they get a part of the profits the company makes: Dividends!</description>
+      <guid>/custom/homesticky/</guid>
+      <description>Welcome to Active Investor   </description>
     </item>
     
     <item>
@@ -46,6 +45,33 @@
       
       <guid>/advice/advice/</guid>
       <description>Not thinking too much about your finances: KISSThinking about your financesWealth and hapinessHow to grow your wealthGoldSavings accountReal estateGovernment bondsStocksWhat I would doBuy…Allocation: 2/1/100…or rent?Allocation 2/1/50:50Not thinking too much about your finances: KISSIf you don’t want to think about your finances keep things simple and stupid (KISS). Regularly invest a portion (I suggest 15%-20%) of your revenue in stocks (I suggest SPY) and government bonds (I suggest TLT).</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Active Investor</title>
+      <link>/advice/personal-finances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/advice/personal-finances/</guid>
+      <description>Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Active Investor</title>
+      <link>/custom/homesticky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom/homesticky/</guid>
+      <description>Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Active Investor</title>
+      <link>/1/01/welcome-to-active-investor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/1/01/welcome-to-active-investor/</guid>
+      <description>Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.JJ</description>
     </item>
     
   </channel>

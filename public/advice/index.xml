@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Advices on Investment tools and ideas</title>
+    <title>Advices on Active Investor</title>
     <link>/advice/</link>
-    <description>Recent content in Advices on Investment tools and ideas</description>
+    <description>Recent content in Advices on Active Investor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -36,6 +36,15 @@
       
       <guid>/advice/advice/</guid>
       <description>Not thinking too much about your finances: KISSThinking about your financesWealth and hapinessHow to grow your wealthGoldSavings accountReal estateGovernment bondsStocksWhat I would doBuy…Allocation: 2/1/100…or rent?Allocation 2/1/50:50Not thinking too much about your finances: KISSIf you don’t want to think about your finances keep things simple and stupid (KISS). Regularly invest a portion (I suggest 15%-20%) of your revenue in stocks (I suggest SPY) and government bonds (I suggest TLT).</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Active Investor</title>
+      <link>/advice/personal-finances/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/advice/personal-finances/</guid>
+      <description>Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.</description>
     </item>
     
   </channel>
