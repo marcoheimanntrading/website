@@ -1,16 +1,12 @@
-<div class="post-header-cover
-              text-left
-              "
-       style="background-image:url('images/wave.jpeg')"       data-behavior="4">
-    
-      <div class="post-header main-content-wrap text-left">
-  
-    <h1 class="post-title" itemprop="headline">
-      Welcome to Active Investor
-    </h1>
-  
-  
-  <div class="postShorten-meta post-meta">
-    
-    
-  </div>
+---
+title: "Cover image showcase"
+coverImage: //d1u9biwaxjngwg.cloudfront.net/cover-image-showcase/city.jpg
+coverMeta: out
+coverSize: full
+---
+
+Tranquilpeak integrate a unique "cover image" feature. Open this post to see how this feature sublimate your article.
+
+**Youtube**
+
+{{< youtube xL45JMI8IFg >}}

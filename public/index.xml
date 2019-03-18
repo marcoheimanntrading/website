@@ -11,15 +11,6 @@
     
     
     <item>
-      <title></title>
-      <link>/custom/homesticky/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/custom/homesticky/</guid>
-      <description>Welcome to Active Investor   </description>
-    </item>
-    
-    <item>
       <title>Active Investor Signals</title>
       <link>/advice/ais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -36,6 +27,17 @@
       <guid>/advice/apps/</guid>
       <description>Apps for stocksDividend comparison app (An application that allows to compare stock returns with and without dividends reinvested)
 </description>
+    </item>
+    
+    <item>
+      <title>Cover image showcase</title>
+      <link>/custom/homesticky/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/custom/homesticky/</guid>
+      <description>Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.
+Youtube
+  </description>
     </item>
     
     <item>

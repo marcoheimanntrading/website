@@ -12,7 +12,7 @@
           <div class="sticky">
             {{ range first 1 (where .Data.Pages "URL" "/custom/homesticky/") }}
             {{ .Content}}
-
+            {{ .Render "home"}}
           {{ end }}
           </div>
           {{ if 0 }}

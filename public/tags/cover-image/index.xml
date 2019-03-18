@@ -12,13 +12,12 @@
     
     
     <item>
-      <title>Welcome to Active Investor</title>
-      <link>/advice/personal-finances/</link>
+      <title>Cover image showcase</title>
+      <link>/custom/homesticky/</link>
       <pubDate>Wed, 13 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/advice/personal-finances/</guid>
-      <description>Tranquilpeak integrate a unique “cover image” feature. Open this post to see how this feature sublimate your article.
-HUGOMORE42 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce eget urna vitae velit eleifend interdum at ac nisi. In nec ligula lacus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed eu cursus erat, ut dapibus quam. Aliquam eleifend dolor vitae libero pharetra adipiscing. Etiam adipiscing dolor a quam tempor, eu convallis nulla varius.</description>
+      <guid>/custom/homesticky/</guid>
+      <description>&lt;p&gt;Tranquilpeak integrate a unique &amp;ldquo;cover image&amp;rdquo; feature. Open this post to see how this feature sublimate your article.&lt;/p&gt;</description>
     </item>
     
   </channel>
