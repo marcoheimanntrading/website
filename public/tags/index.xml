@@ -11,7 +11,7 @@
     
     
     <item>
-      <title>Disqus</title>
+      <title>disqus</title>
       <link>/tags/disqus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>Google Analytics</title>
+      <title>google analytics</title>
       <link>/tags/google-analytics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -29,7 +29,7 @@
     </item>
     
     <item>
-      <title>Gravatar</title>
+      <title>gravatar</title>
       <link>/tags/gravatar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -38,7 +38,7 @@
     </item>
     
     <item>
-      <title>Hexo Theme</title>
+      <title>hexo theme</title>
       <link>/tags/hexo-theme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -47,7 +47,7 @@
     </item>
     
     <item>
-      <title>Responsive</title>
+      <title>responsive</title>
       <link>/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
