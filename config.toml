@@ -51,11 +51,11 @@ canonifyurls = true
   identifier = "home"
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "advice/personal-finances"
+  url = "/" #advice/personal-finances
 [[menu.main]]
   weight = 2
   identifier = "freeadVice"
-  name = "Free Advice!!"
+  name = "Free Advice"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bank\"></i>"
   url = "/advice/advice"
 [[menu.main]]
@@ -66,14 +66,8 @@ canonifyurls = true
   url = "/advice/Apps"
 [[menu.main]]
   weight = 4
-  identifier = "freenews"
-  name = "Free Weekly Newsletter"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-newspaper-o\"></i>"
-  url = "https://www.getrevue.co/profile/investingnewsletter"
-[[menu.main]]
-  weight = 5
   identifier = "AIS"
-  name = "AI Signals (paid)"
+  name = "Signals (subscription)"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-line-chart\"></i>"
   url = "/advice/AIS"
 
@@ -170,10 +164,10 @@ canonifyurls = true
   # Otherwise put your image in folder `static/_images/` (development)  or in `source/assets/images/` if you can't or don't want to build the theme,
   # and use relative url : `your-image.png`
   # Mine is on "website\public\images""
-  coverImage = "wave.jpeg"
+  # coverImage =  "https://lh3.googleusercontent.com/XUXLmW60XGbBZxBXXbTvKiSkdRD4A-PgsRUecr4Rf_oVjal83T5q_rprVR2w1My9iH2GIXnIxQCrAzBVIvQjYV0ZWh0rUTUfKKZAj4wrCJf3HKLCJz5HPDLQ3PpvTDNuKOXuOg3k=w2400" #"wave.jpeg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
-  imageGallery = true
+  imageGallery = false
 
   # Display thumbnail image of each post on index pages (false: disabled, true: enabled)
   thumbnailImage = true
