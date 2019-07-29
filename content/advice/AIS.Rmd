@@ -1,5 +1,5 @@
 ---
-title: "Active Investor Signals"
+title: "Stock Market Timing Signals"
 author: Marco Heimann
 output: html_document
 ---
@@ -9,13 +9,13 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # About the system
-The [Active Investor Signals (AIS)](https://www.getrevue.co/profile/investingnewsletter/members) system aims to trade individual stocks, stock index funds as well as a variety of ETFs adopting a medium to long term investment style. The criteria for investment are a mix of quantitative tests and discretionary decisions. Quantitative methods include backtesting of rule-based strategies and statistical analysis of historical price movements. Discretionary decisions gauge the quantitative elements in the light of macroeconomic cycles and money management. Performance wise the goal is to beat the SP500 by 10% annually. If the drawdown exceeds 20% the system is shut down.
+The [Stock Market Timing (SMT)](https://www.getrevue.co/profile/investingnewsletter/members) system aims to time entries and exits in the SPY ETF adopting a medium to long term investment style. The criteria for investment are a mix of quantitative tests and discretionary decisions. Quantitative methods include backtesting of rule-based strategies and statistical analysis of historical price movements. Discretionary decisions gauge the quantitative elements in the light of macroeconomic cycles, political events and money management. Performance wise the goal is to beat the SP500 by 10% annually. If the drawdown exceeds 20% the service is shut down.
 
 # Performance
-The performance of the system is tracked on [Wikifolio](https://www.wikifolio.com/en/int/my-wikifolios/change/wfaisystem).
+
 
 # Procedures
-Subscribers receive an email at least one hour before the open of the US-markets. Since trades might occur on a daily basis subscribers should be able to spend a few moments per day to enter the orders received through email. On average [AIS](https://www.getrevue.co/profile/investingnewsletter/members) produces two entry signals a week and exits the same number of postitions. Expect to receive 2 or 3 emails a week.
+Subscribers receive an email on weekends before the open of the US-markets (usually on Monday). Since trades might exceptionaly occur on a daily basis subscribers should be able to enter the orders received through email. On average [AIS](https://www.getrevue.co/profile/investingnewsletter/members) produces two entry signals a week and exits the same number of postitions. 
 
 # Brokerage
 The preferred broker is [IBKR](http://interactivebrokers.com). There is a steep learning curve for handling trades, but lower comissions are worth it. 

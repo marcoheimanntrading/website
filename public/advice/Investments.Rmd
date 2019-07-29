@@ -1,0 +1,14 @@
+---
+title: "Where to invest"
+author: Marco Heimann
+output: 
+  blogdown::html_page:
+    toc: true
+---
+
+# Where to save money
+## Gold
+## Savings account
+## Government bonds
+## Real estate
+## Stocks

@@ -1,9 +1,9 @@
 ---
-title: "Welcome to Active Investor"
-coverImage: images/wave.jpeg
-coverSize: full
+title: "Financial advice"
 showDate: false
 ---
 
-## R Markdown
+#FINANCIAL ADVICE FOR NORMAL PEOPLE
+### A website for people like you and me who are concerned about their finances.
+#### _Marco Heimann, PhD_
 

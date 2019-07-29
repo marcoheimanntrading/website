@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Advices on Active Investor</title>
+    <title>Advices on FINANCIAL ADVICE FOR NORMAL PEOPLE</title>
     <link>/advice/</link>
-    <description>Recent content in Advices on Active Investor</description>
+    <description>Recent content in Advices on FINANCIAL ADVICE FOR NORMAL PEOPLE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,12 +11,12 @@
     
     
     <item>
-      <title>Active Investor Signals</title>
-      <link>/advice/ais/</link>
+      <title>About financial decisions</title>
+      <link>/advice/advice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/advice/ais/</guid>
-      <description>About the systemThe Active Investor Signals (AIS) system aims to trade individual stocks, stock index funds as well as a variety of ETFs adopting a medium to long term investment style. The criteria for investment are a mix of quantitative tests and discretionary decisions. Quantitative methods include backtesting of rule-based strategies and statistical analysis of historical price movements. Discretionary decisions gauge the quantitative elements in the light of macroeconomic cycles and money management.</description>
+      <guid>/advice/advice/</guid>
+      <description>TheNot thinking too much about your finances: KISSThinking about your financesTheNot thinking too much about your finances: KISSIf you don’t want to think about your finances keep things simple and stupid (KISS). Regularly invest a portion (I suggest 15%-20%) of your revenue in stocks (I suggest the SPY) and government bonds (I suggest TLT). The bigger your appetite for risk the higher the percentage invested in the SPY.</description>
     </item>
     
     <item>
@@ -30,21 +30,21 @@
     </item>
     
     <item>
-      <title>The one article you should read</title>
-      <link>/advice/advice/</link>
+      <title>Stock Market Timing Signals</title>
+      <link>/advice/ais/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/advice/advice/</guid>
-      <description>Not thinking too much about your finances: KISSThinking about your financesWealth and hapinessHow to grow your wealthGoldSavings accountReal estateGovernment bondsStocksWhat I would doBuy…Allocation: 2/1/100…or rent?Allocation 2/1/50:50Not thinking too much about your finances: KISSIf you don’t want to think about your finances keep things simple and stupid (KISS). Regularly invest a portion (I suggest 15%-20%) of your revenue in stocks (I suggest SPY) and government bonds (I suggest TLT).</description>
+      <guid>/advice/ais/</guid>
+      <description>About the systemThe Stock Market Timing (SMT) system aims to time entries and exits in the SPY ETF adopting a medium to long term investment style. The criteria for investment are a mix of quantitative tests and discretionary decisions. Quantitative methods include backtesting of rule-based strategies and statistical analysis of historical price movements. Discretionary decisions gauge the quantitative elements in the light of macroeconomic cycles, political events and money management.</description>
     </item>
     
     <item>
-      <title>Welcome to Active Investor</title>
-      <link>/advice/personal-finances/</link>
+      <title>Where to invest</title>
+      <link>/advice/investments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/advice/personal-finances/</guid>
-      <description>Tranquilpeak is a gorgeous responsive theme for Hugo blog framework. It has many features and integrated services to improve user experience.</description>
+      <guid>/advice/investments/</guid>
+      <description>Where to save moneyGoldSavings accountGovernment bondsReal estateStocksWhere to save moneyGoldSavings accountGovernment bondsReal estateStocks</description>
     </item>
     
   </channel>

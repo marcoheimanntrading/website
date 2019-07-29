@@ -15,7 +15,7 @@
 baseURL = "https://investments.netlify.com" #"https://github.com/marcoheimanntrading/website/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Active Investor"
+title = "FINANCIAL ADVICE FOR NORMAL PEOPLE"
 theme = "hugo-tranquilpeak-theme"
 disqusShortname = "hugo-tranquilpeak-theme"
 # googleAnalytics = "UA-123-45"
@@ -31,8 +31,8 @@ canonifyurls = true
   archive = "archives"
 
 [author]
-  name = "Active Investor"
-  bio = "Investment Ideas, Tools and Market Analysis by Marco Heimann"
+  name = "Marco Heimann, PhD"
+  bio = "Financial advice, Investment Ideas, Tools by Marco Heimann"
   job = "PhD"
   location = "EU"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
@@ -51,22 +51,28 @@ canonifyurls = true
   identifier = "home"
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
-  url = "/" #advice/personal-finances
+  url = "/" 
 [[menu.main]]
   weight = 2
   identifier = "freeadVice"
-  name = "Free Advice"
+  name = "Preliminary Advice"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bank\"></i>"
   url = "/advice/advice"
 [[menu.main]]
   weight = 3
   identifier = "freeapps"
-  name = "Free Tools"
+  name = "Usefull Tools"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-wrench\"></i>"
   url = "/advice/Apps"
-[[menu.main]]
+  [[menu.main]]
   weight = 4
-  identifier = "AIS"
+  identifier = "Possibilities to invest"
+  name = "Possible investments"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-money\"></i>"
+  url = "/advice/Investments"
+[[menu.main]]
+  weight = 5
+  identifier = "Stock Market Timing"
   name = "Signals (subscription)"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-line-chart\"></i>"
   url = "/advice/AIS"
